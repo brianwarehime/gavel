@@ -61,6 +61,7 @@ for case in unquotedcases:
 		vehiclelist = []
 		personmeta = []
 		datemeta = []
+		violation = []
 		for c in newlist:
 			if "Address" in c:
 				addresslist.append(str(c))
@@ -72,6 +73,8 @@ for case in unquotedcases:
 				personmeta.append(str(c))
 			elif "DOB" in c:
 				datemeta.append(str(c))
+			elif "Violation Date" in c:
+				violation.append(str(c))
 
 		# Format Case ID for passing it as an additional field
 		newcaseid = ul.quote(case)
@@ -82,6 +85,9 @@ for case in unquotedcases:
 		ent.addAdditionalFields(fieldName="streetaddress",
 		                        displayName="streetaddress",
 		                        value=addresslist[0].split(":")[1])
+		ent.addAdditionalFields(fieldName="Violation Date",
+								displayName="Violation Date",
+								value=violation[0].split(",")[1])
 		
 		oldent = me.addEntity("maltego.Person",oldname)
 		oldent.addAdditionalFields(fieldName="Height",
@@ -98,6 +104,9 @@ for case in unquotedcases:
 		newent.addAdditionalFields(fieldName="Make",
 		                        displayName="Make",
 		                        value=vehiclelist[0].split("Description:,")[1])
+		newent.addAdditionalFields(fieldName="Violation Date",
+								displayName="Violation Date",
+								value=violation[0].split(",")[1])
 	else:
 		pass
 	
