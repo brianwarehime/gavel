@@ -57,10 +57,6 @@ for case in unquotedcases:
 		for i in recs:
 			newlist.append(",".join(i))
 
-		addresslist = []
-		vehiclelist = []
-		personmeta = []
-		datemeta = []
 		for c in newlist:
 			if "Address" in c:
 				addresslist.append(str(c))
