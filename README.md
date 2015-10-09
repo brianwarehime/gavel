@@ -81,7 +81,7 @@ Below is a table of the states completed, and if they county based or require pa
 | Alabama |   |   |   |
 | Alaska  |   |   |   |
 | Arizona  |   |   |   | Yes
-| Arkansas  |   |   |   |
+| Arkansas  | Partial (No Addresses) |   |   |
 | California  |   |   |   |
 | Colorado  |   |   |   |
 | Connecticut  |   |   |   |
