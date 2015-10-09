@@ -70,8 +70,6 @@ With Maryland being the only state, we definitely want to expand this as far as 
 
 @__eth0 has done a lot of work for Deleware, and just needs to do some minor tweaking, however, once that's done, we'll require users to add a property value of "State" when they create the person identity to know which state to query.
 
-A minor thing that I'll most likely complete this week is adding the date to each entity when it was for. So, each address and vehicle will have a month/year attribute so you can know how useful the data is. One thing we thought would be useful as well is to correlate this information against state property records for validation. Anyone can go into the state's property records and look up an address to see the current owners, so this would be an excellent way to validate the data from the case records.
-
 If you have any questions or concerns, please feel free to reach out to us on Twitter at [@brian\_warehime](http://www.twitter.com/brian_warehime) or [@__eth0](http://www.twitter.com/__eth0).
 
 ## States Completed
