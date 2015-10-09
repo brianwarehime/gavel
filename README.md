@@ -73,3 +73,60 @@ With Maryland being the only state, we definitely want to expand this as far as 
 A minor thing that I'll most likely complete this week is adding the date to each entity when it was for. So, each address and vehicle will have a month/year attribute so you can know how useful the data is. One thing we thought would be useful as well is to correlate this information against state property records for validation. Anyone can go into the state's property records and look up an address to see the current owners, so this would be an excellent way to validate the data from the case records.
 
 If you have any questions or concerns, please feel free to reach out to us on Twitter at [@brian\_warehime](http://www.twitter.com/brian_warehime) or [@__eth0](http://www.twitter.com/__eth0).
+
+## States Completed
+
+Below is a table of the states completed, and if they county based or require payment per query.
+
+| State | Completed | County Based | Payment Req. | Captcha |
+|---|---|---|---|---|
+| Alabama |   |   |   |
+| Alaska  |   |   |   |
+| Arizona  |   |   |   |
+| Arkansas  |   |   |   |
+| California  |   |   |   |
+| Colorado  |   |   |   |
+| Connecticut  |   |   |   |
+| Delaware  |   |   |   |
+| Florida  |   |   |   |
+| Georgia  |   |   |   |
+| Hawaii  |   |   |   |
+| Idaho  |   |   |   |
+| Illinois  |   |   |   |
+| Indiana |   |   |    |
+| Iowa  |   |   |   |
+| Kansas  |   |   |   |
+| Kentucky  |   |   |   |
+| Louisiana  |   |   |   |
+| Maine  |   |   |   |
+| Maryland  | Yes |      ||
+| Massachusetts  |   |   |   |
+| Michigan  |   |   |   |
+| Minnesota  |   |   |   |
+| Mississippi  |   |   |   |
+| Missouri  |   |   |   |
+| Montana  |   |   |   |
+| Nebraska  |   |   |   |
+| Nevada  |   |   |   |
+| New Hampshire  |   |   |
+| New Jersey  |   |   |
+| New Mexico  |   |   |
+| New York  |   |   |
+| North Carolina  |   |   |
+| North Dakota  |   |   |
+| Ohio  |   |   |
+| Oklahoma  |   |   |
+| Oregon  |   |   |
+| Pennsylvania  |   |   |
+| Rhode Island  |   |   |
+| South Carolina  |   |   |
+| South Dakota  |   |   |
+| Tennessee  |   |   |
+| Texas  |   |   |
+| Utah  |   |   |
+| Vermont  |   |   |
+| Virginia  |   |   |
+| Washington  |   |   |
+| West Virginia  |   |   |
+| Wisconsin  |   |   |
+| Wyoming |   |   |
