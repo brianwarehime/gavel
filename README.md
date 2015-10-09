@@ -82,7 +82,7 @@ Below is a table of the states completed, and if they county based or require pa
 |---|---|---|---|---|
 | Alabama |   |   |   |
 | Alaska  |   |   |   |
-| Arizona  |   |   |   |
+| Arizona  |   |   |  Yes |
 | Arkansas  |   |   |   |
 | California  |   |   |   |
 | Colorado  |   |   |   |
