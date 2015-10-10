@@ -86,7 +86,7 @@ Below is a table of the states completed, and if they county based or require pa
 | Colorado  |   |   |  Yes (LexisNexis) |   | Can't be completed
 | Connecticut  |   |   |   |   | Can't be completed (No address)
 | Delaware  |   |   |   |   |
-| Florida  |   |   |   |   |
+| Florida  |   |  Yes  |   |   |
 | Georgia  |   |   |   |   |
 | Hawaii  |   |   |   |   |
 | Idaho  |   |   |   |   |
