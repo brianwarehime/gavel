@@ -80,11 +80,11 @@ Below is a table of the states completed, and if they county based or require pa
 |---|---|---|---|---|---|
 | Alabama |   |   |   |    |
 | Alaska  |   |   |   |   |
-| Arizona  |   |   |   | Yes   |
+| Arizona  |   |   |   | Yes   | Can't be completed
 | Arkansas  | Partial (No Addresses) |   |   |   |
 | California  |   |   |   |   |
-| Colorado  |   |   |  Yes (LexisNexis) |   |
-| Connecticut  |   |   |   |   |
+| Colorado  |   |   |  Yes (LexisNexis) |   | Can't be completed
+| Connecticut  |   |   |   |   | Can't be completed (No address)
 | Delaware  |   |   |   |   |
 | Florida  |   |   |   |   |
 | Georgia  |   |   |   |   |
