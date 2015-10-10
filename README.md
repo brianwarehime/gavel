@@ -83,7 +83,7 @@ Below is a table of the states completed, and if they county based or require pa
 | Arizona  |   |   |   | Yes
 | Arkansas  | Partial (No Addresses) |   |   |
 | California  |   |   |   |
-| Colorado  |   |   |   |
+| Colorado  |   |   |  Yes (LexisNexis) |
 | Connecticut  |   |   |   |
 | Delaware  |   |   |   |
 | Florida  |   |   |   |
