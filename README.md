@@ -87,7 +87,7 @@ Below is a table of the states completed, and if they county based or require pa
 | Connecticut  |   |   |   |   | Can't be completed (No address)
 | Delaware  |   |   |   |   |
 | Florida  |   |  Yes  |   |   |
-| Georgia  |   |   |   |   |
+| Georgia  |   |  Yes  |   |   |
 | Hawaii  |   |   |   |   |
 | Idaho  |   |   |   |   |
 | Illinois  |   |   |   |   |
