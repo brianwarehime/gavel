@@ -77,7 +77,7 @@ If you have any questions or concerns, please feel free to reach out to us on Tw
 Below is a table of the states completed, and if they county based or require payment per query.
 
 | State | Completed | County Based | Payment Req. | Captcha | Issues |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | Alabama |   |   |   |    |
 | Alaska  |   |   |   |   |
 | Arizona  |   |   |   | Yes   |
