@@ -76,55 +76,55 @@ If you have any questions or concerns, please feel free to reach out to us on Tw
 
 Below is a table of the states completed, and if they county based or require payment per query.
 
-| State | Completed | County Based | Payment Req. | Captcha |
+| State | Completed | County Based | Payment Req. | Captcha | Issues |
 |---|---|---|---|---|
-| Alabama |   |   |   |
-| Alaska  |   |   |   |
-| Arizona  |   |   |   | Yes
-| Arkansas  | Partial (No Addresses) |   |   |
-| California  |   |   |   |
-| Colorado  |   |   |  Yes (LexisNexis) |
-| Connecticut  |   |   |   |
-| Delaware  |   |   |   |
-| Florida  |   |   |   |
-| Georgia  |   |   |   |
-| Hawaii  |   |   |   |
-| Idaho  |   |   |   |
-| Illinois  |   |   |   |
-| Indiana |   |   |    |
-| Iowa  |   |   |   |
-| Kansas  |   |   |   |
-| Kentucky  |   |   |   |
-| Louisiana  |   |   |   |
-| Maine  |   |   |   |
-| Maryland  | Yes |      ||
-| Massachusetts  |   |   |   |
-| Michigan  |   |   |   |
-| Minnesota  |   |   |   |
-| Mississippi  |   |   |   |
-| Missouri  |   |   |   |
-| Montana  |   |   |   |
-| Nebraska  |   |   |   |
-| Nevada  |   |   |   |
-| New Hampshire  |   |   |
-| New Jersey  |   |   |
-| New Mexico  |   |   |
-| New York  |   |   |
-| North Carolina  |   |   |
-| North Dakota  |   |   |
-| Ohio  |   |   |
-| Oklahoma  |   |   |
-| Oregon  |   |   |
-| Pennsylvania  |   |   |
-| Rhode Island  |   |   |
-| South Carolina  |   |   |
-| South Dakota  |   |   |
-| Tennessee  |   |   |
-| Texas  |   |   |
-| Utah  |   |   |
-| Vermont  |   |   |
-| Virginia  |   |   |
-| Washington  |   |   |
-| West Virginia  |   |   |
-| Wisconsin  |   |   |
-| Wyoming |   |   |
+| Alabama |   |   |   |    |
+| Alaska  |   |   |   |   |
+| Arizona  |   |   |   | Yes   |
+| Arkansas  | Partial (No Addresses) |   |   |   |
+| California  |   |   |   |   |
+| Colorado  |   |   |  Yes (LexisNexis) |   |
+| Connecticut  |   |   |   |   |
+| Delaware  |   |   |   |   |
+| Florida  |   |   |   |   |
+| Georgia  |   |   |   |   |
+| Hawaii  |   |   |   |   |
+| Idaho  |   |   |   |   |
+| Illinois  |   |   |   |   |
+| Indiana |   |   |    |   |
+| Iowa  |   |   |   |   |
+| Kansas  |   |   |   |   |
+| Kentucky  |   |   |   |   |
+| Louisiana  |   |   |   |   |
+| Maine  |   |   |   |   |
+| Maryland  | Yes |      |   |   |
+| Massachusetts  |   |   |   |   |
+| Michigan  |   |   |   |   |
+| Minnesota  |   |   |   |   |
+| Mississippi  |   |   |   |   |
+| Missouri  |   |   |   |   |
+| Montana  |   |   |   |   |
+| Nebraska  |   |   |   |   |
+| Nevada  |   |   |   |   |
+| New Hampshire  |   |   |   |
+| New Jersey  |   |   |   |
+| New Mexico  |   |   |   |
+| New York  |   |   |   |
+| North Carolina  |   |   |   |
+| North Dakota  |   |   |   |
+| Ohio  |   |   |   |
+| Oklahoma  |   |   |   |
+| Oregon  |   |   |   |
+| Pennsylvania  |   |   |   |
+| Rhode Island  |   |   |   |
+| South Carolina  |   |   |   |
+| South Dakota  |   |   |   |
+| Tennessee  |   |   |   |
+| Texas  |   |   |   |
+| Utah  |   |   |   |
+| Vermont  |   |   |   |
+| Virginia  |   |   |   |
+| Washington  |   |   |   |
+| West Virginia  |   |   |   |
+| Wisconsin  |   |   |   |
+| Wyoming |   |   |   |
