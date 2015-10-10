@@ -81,29 +81,29 @@ Below is a table of the states completed, and if they county based or require pa
 | Alabama |   |   |   |    |
 | Alaska  |   |   |   |   |
 | Arizona  |   |   |   | Yes   | Can't be completed
-| Arkansas  | Partial (No Addresses) |   |   |   |
+| Arkansas  |  |   |   |   | No Address
 | California  |   |   |   |   |
 | Colorado  |   |   |  Yes (LexisNexis) |   | Can't be completed
-| Connecticut  |   |   |   |   | Can't be completed (No address)
+| Connecticut  |   |   |   |   | No address
 | Delaware  |   |   |   |   |
 | Florida  |   |  Yes  |   |   |
 | Georgia  |   |  Yes  |   |   |
 | Hawaii  |   |   |   |   |
-| Idaho  |   |   |   |   |
-| Illinois  |   |   |   |   |
-| Indiana |   |   |    |   |
-| Iowa  |   |   |   |   |
-| Kansas  |   |   |   |   |
+| Idaho  |   |   |   |   | No Address
+| Illinois  |   |  Yes  |   |   | 
+| Indiana |   | Yes  |    | Yes  |
+| Iowa  |   |   |   |   | No Address, Account Required
+| Kansas  |   | Yes  | Yes  |   | 
 | Kentucky  |   |   |   |   |
-| Louisiana  |   |   |   |   |
-| Maine  |   |   |   |   |
+| Louisiana  |   |   |Yes   |   |
+| Maine  |   |   |   |   | Doesn't look available
 | Maryland  | Yes |      |   |   |
-| Massachusetts  |   |   |   |   |
-| Michigan  |   |   |   |   |
-| Minnesota  |   |   |   |   |
-| Mississippi  |   |   |   |   |
-| Missouri  |   |   |   |   |
-| Montana  |   |   |   |   |
+| Massachusetts  |   |  Yes |   |   | No Address
+| Michigan  |   | Yes  |   |   | No Address
+| Minnesota  |   |  Yes  |   |   | Can't search by people
+| Mississippi  |   |   |   |   | Doesn't look available
+| Missouri  |   |   |   |   | No Address
+| Montana  |   |   |   |   | Doesn't look available
 | Nebraska  |   |   |   |   |
 | Nevada  |   |   |   |   |
 | New Hampshire  |   |   |   |
