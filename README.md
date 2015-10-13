@@ -104,20 +104,20 @@ Below is a table of the states completed, and if they county based or require pa
 | Mississippi  |   |   |   |   | Doesn't look available
 | Missouri  |   |   |   |   | No Address
 | Montana  |   |   |   |   | Doesn't look available
-| Nebraska  |   |   |   |   |
-| Nevada  |   |   |   |   |
-| New Hampshire  |   |   |   |
+| Nebraska  |   |   | Yes  |   |
+| Nevada  |   | Yes  |   |   | Can't search by name
+| New Hampshire  |   |   |   | Doesn't look available
 | New Jersey  |   |   |   |
-| New Mexico  |   |   |   |
-| New York  |   |   |   |
+| New Mexico  |   |   | Yes  |
+| New York  |   |   | Yes  |
 | North Carolina  |   |   |   |
 | North Dakota  |   |   |   |
-| Ohio  |   |   |   |
+| Ohio  |   | Yes  |   |
 | Oklahoma  |   |   |   |
-| Oregon  |   |   |   |
-| Pennsylvania  |   |   |   |
-| Rhode Island  |   |   |   |
-| South Carolina  |   |   |   |
+| Oregon  |   | Yes  |   |
+| Pennsylvania  |   |   |   | Can't search by name
+| Rhode Island  |   |   |   | 
+| South Carolina  |   | Yes  |   | Yes |
 | South Dakota  |   |   |   |
 | Tennessee  |   |   |   |
 | Texas  |   |   |   |
