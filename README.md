@@ -106,16 +106,16 @@ Below is a table of the states completed, and if they county based or require pa
 | Montana  |   |   |   |   | Doesn't look available
 | Nebraska  |   |   | Yes  |   |
 | Nevada  |   | Yes  |   |   | Can't search by name
-| New Hampshire  |   |   |   | Doesn't look available
+| New Hampshire  |   |   |   |   |Doesn't look available
 | New Jersey  |   |   |   |
-| New Mexico  |   |   | Yes  |
-| New York  |   |   | Yes  |
+| New Mexico  |   |   |   | Yes  |
+| New York  |   |   |   | Yes  |
 | North Carolina  |   |   |   |
 | North Dakota  |   |   |   |
 | Ohio  |   | Yes  |   |
 | Oklahoma  |   |   |   |
 | Oregon  |   | Yes  |   |
-| Pennsylvania  |   |   |   | Can't search by name
+| Pennsylvania  |   |   |   |   | Can't search by name
 | Rhode Island  |   |   |   | 
 | South Carolina  |   | Yes  |   | Yes |
 | South Dakota  |   |   |   |
