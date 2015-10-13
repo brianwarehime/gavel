@@ -118,13 +118,14 @@ Below is a table of the states completed, and if they county based or require pa
 | Pennsylvania  |   |   |   |   | Can't search by name
 | Rhode Island  |   |   |   | 
 | South Carolina  |   | Yes  |   | Yes |
-| South Dakota  |   |   |   |
-| Tennessee  |   |   |   |
-| Texas  |   |   |   |
-| Utah  |   |   |   |
-| Vermont  |   |   |   |
-| Virginia  |   |   |   |
-| Washington  |   |   |   |
-| West Virginia  |   |   |   |
-| Wisconsin  |   |   |   |
+| South Dakota  |   |   |   |   | Account required
+| Tennessee  |   |   |   |   |
+| Texas  |   |   |   |   | Can't search by name
+| Utah  |   |   | Yes  |   |
+| Vermont  |   |   | Yes |   |
+| Virginia  |   | Yes  |   |   |
+| Washington  |   |   |   | Yes  |
+| Washington D.C |   |   |   |   | 
+| West Virginia  |   |   |   |   | Can't search by name
+| Wisconsin  |   |   |   | Yes  |
 | Wyoming |   |   |   |
